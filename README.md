@@ -44,20 +44,20 @@ The project combines Python data analysis and Tableau dashboard development to i
 
 ## Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Google Colab
-Tableau Desktop
+Python |
+Pandas |
+NumPy |
+Matplotlib |
+Google Colab |
+Tableau Desktop |
 GitHub
 
 ## Data Sources
 
-Formula1.com
-Liquipedia
-Kaggle
-Python (Pandas, Matplotlib)
+Formula1.com |
+Liquipedia |
+Kaggle |
+Python (Pandas, Matplotlib) |
 Tableau Desktop
 
 ## Key Findings
