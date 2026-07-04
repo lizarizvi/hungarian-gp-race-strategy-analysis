@@ -1,6 +1,6 @@
 # 2024 Hungarian Grand Prix - Race Strategy Analysis
 
-![Dashboard](images/final_dashboard.png)
+![Dashboard](Hungarian_GP_Race_Strategy_Analysis/images/final_dashboard.png)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
