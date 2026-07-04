@@ -2,12 +2,6 @@
 
 ![Dashboard](Hungarian_GP_Race_Strategy_Analysis/images/final_dashboard.png)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
-![Formula1](https://img.shields.io/badge/Motorsport-Analytics-red)
-
 Dashboard link: https://public.tableau.com/views/2024HungarianGrandPrix-RaceStrategyAnalysis/2024HungarianGPDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Overview
@@ -73,3 +67,10 @@ Tableau Desktop
 - Oscar Piastri recorded the fastest average pace and converted it into victory.
 - Pit loss differences among the Top 5 were small.
 - Average race pace had greater influence on finishing position than pit loss.
+
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Formula1](https://img.shields.io/badge/Motorsport-Analytics-red)
